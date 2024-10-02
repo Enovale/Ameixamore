@@ -302,6 +302,9 @@
         component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}"
         drawable="filemanager" />
     <item
+        component="ComponentInfo{com.mixplorer.silver/com.mixplorer.activities.BrowseActivity}"
+        drawable="mixplorer" />
+    <item
         component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}"
         drawable="gallery" />
     <item
