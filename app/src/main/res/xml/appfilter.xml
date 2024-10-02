@@ -359,6 +359,9 @@
         component="ComponentInfo{cz.postaonline.android/cz.cyberfox.postaonline2.activity.MainPageActivity}"
         drawable="postaonline" />
     <item
+        component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.MainActivity}"
+        drawable="proton_mail" />
+    <item
         component="ComponentInfo{cz.rekola.app/cz.rekola.app.activity.SplashActivity}"
         drawable="rekolacz" />
     <item
@@ -1659,6 +1662,9 @@
         component="ComponentInfo{net.sf.ethersynth/net.sf.ethersynth.EtherSynthActivity}"
         drawable="ethersynth" />
     <item
+        component="ComponentInfo{info.zverev.ilya.every_door/info.zverev.ilya.every_door.MainActivity}"
+        drawable="every_door" />
+    <item
         component="ComponentInfo{com.android.exchange/com.android.exchange.EasCertificateRequestor}"
         drawable="exchange" />
     <item
@@ -1997,6 +2003,9 @@
     <item
         component="ComponentInfo{com.Bisha.TI89EmuDonation/com.graph89.emulationcore.EmulatorActivity}"
         drawable="graph89" />
+    <item
+        component="ComponentInfo{com.futo.platformplayer/com.futo.platformplayer.activities.MainActivity}"
+        drawable="grayjay" />
     <item
         component="ComponentInfo{it.greenaddress.cordova/it.greenaddress.cordova.GreenAddressIt}"
         drawable="greenaddress" />
