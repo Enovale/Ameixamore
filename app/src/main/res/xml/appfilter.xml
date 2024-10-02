@@ -361,6 +361,12 @@
     <item
         component="ComponentInfo{cz.rekola.app/cz.rekola.app.activity.SplashActivity}"
         drawable="rekolacz" />
+    <item
+        component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}"
+        drawable="tumblr" />
+    <item
+        component="ComponentInfo{com.notacult.walkscape/com.notacult.walkscape.MainActivity}"
+        drawable="walkscape" />
 
     <!-- end of "proprietary" applications -->
 
@@ -383,6 +389,9 @@
     <item
         component="ComponentInfo{name.gdr.acastus_photon/name.gdr.acastus_photon.MainActivity}"
         drawable="acastus" />
+    <item
+        component="ComponentInfo{app.accrescent.client/app.accrescent.client.ui.MainActivity}"
+        drawable="accrescent" />
     <item
         component="ComponentInfo{de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity}"
         drawable="activitylauncher" />
@@ -568,6 +577,9 @@
         drawable="aurorastore" />
     <item
         component="ComponentInfo{com.aurora.store/com.aurora.store.activity.AuroraActivity}"
+        drawable="aurorastore" />
+    <item
+        component="ComponentInfo{com.aurora.store/com.aurora.store.MainActivity}"
         drawable="aurorastore" />
     <item
         component="ComponentInfo{com.aurora.store/com.aurora.store.ui.single.activity.SplashActivity}"
@@ -1046,6 +1058,9 @@
     <item
         component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}"
         drawable="chromium" />
+    <item
+        component="ComponentInfo{app.vanadium.browser/com.google.android.apps.chrome.Main}"
+        drawable="vanadium" />
     <item
         component="ComponentInfo{com.nathanosman.chronosnap/com.nathanosman.chronosnap.ui.MainActivity}"
         drawable="chronosnap" />
@@ -7775,6 +7790,9 @@
         component="ComponentInfo{nekox.messenger/org.telegram.ui.LaunchActivity}"
         drawable="nekogramx" />
     <item
+        component="ComponentInfo{xyz.nextalone.nagram/org.telegram.messenger.DefaultIcon}"
+        drawable="nagram" />
+    <item
         component="ComponentInfo{com.vishnuraghav.EnRecipes/com.tns.NativeScriptActivity}"
         drawable="enrecipes" />
     <item
@@ -8239,6 +8257,15 @@
     <item
         component="ComponentInfo{com.aliucord.installer/com.aliucord.installer.MainActivity}"
         drawable="aliucordinstaller" />
+    <item
+        component="ComponentInfo{com.aliucord.manager/com.aliucord.manager.MainActivity}"
+        drawable="aliucord_manager" />
+    <item
+        component="ComponentInfo{io.github.pyoncord.app/com.discord.main.MainDefault}"
+        drawable="discord" />
+    <item
+        component="ComponentInfo{io.github.pyoncord.manager/dev.beefers.vendetta.manager.ui.activity.MainActivity}"
+        drawable="bunny_manager" />
     <item
         component="ComponentInfo{de.benibela.videlibri/de.benibela.videlibri.activities.LendingList}"
         drawable="videlibri" />
