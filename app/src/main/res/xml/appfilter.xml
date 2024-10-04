@@ -567,6 +567,9 @@
         component="ComponentInfo{org.lineageos.audiofx/org.lineageos.audiofx.activity.ActivityMusic}"
         drawable="audiofx" />
     <item
+        component="ComponentInfo{com.alexmercerind.audire/com.alexmercerind.audire.ui.MainActivity}"
+        drawable="audire" />
+    <item
         component="ComponentInfo{com.rascarlo.aurdroid/com.rascarlo.aurdroid.MainActivity}"
         drawable="aurdroid" />
     <item
@@ -728,6 +731,9 @@
     <item
         component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}"
         drawable="brave" />
+    <item
+        component="ComponentInfo{org.breezyweather/org.breezyweather.main.MainActivity}"
+        drawable="breezy_weather" />
     <item
         component="ComponentInfo{org.briarproject.briar.beta/org.briarproject.briar.android.splash.SplashScreenActivity}"
         drawable="briar" />
@@ -1559,6 +1565,9 @@
     <item
         component="ComponentInfo{org.petero.droidfish/org.petero.droidfish.DroidFish}"
         drawable="droidfish" />
+    <item
+        component="ComponentInfo{com.looker.droidify/com.looker.droidify.MainActivity}"
+        drawable="droidify" />
     <item
         component="ComponentInfo{org.droidupnp/org.droidupnp.Main}"
         drawable="droidupnp" />
@@ -2997,6 +3006,9 @@
         component="ComponentInfo{trikita.obsqr/trikita.obsqr.ObsqrActivity}"
         drawable="obsqr" />
     <item
+        component="ComponentInfo{dev.imranr.obtainium.fdroid/dev.imranr.obtainium.MainActivity}"
+        drawable="obtainium" />
+    <item
         component="ComponentInfo{org.schabi.nxbookmarks.owncloud/org.schabi.ocbookmarks.MainActivity}"
         drawable="ocbookmarks" />
     <item
@@ -3891,6 +3903,9 @@
     <item
         component="ComponentInfo{org.sagemath.droid/org.sagemath.droid.CellActivity}"
         drawable="sage" />
+    <item
+        component="ComponentInfo{com.aefyr.sai.fdroid/com.aefyr.sai.ui.activities.MainActivity}"
+        drawable="sai" />
     <item
         component="ComponentInfo{com.platypus.SAnd/com.platypus.SAnd.MainActivity}"
         drawable="sand" />
@@ -6124,11 +6139,17 @@
         component="ComponentInfo{net.mabako.steamgifts/net.mabako.steamgifts.activities.MainActivity}"
         drawable="steamgifts" />
     <item
+         component="ComponentInfo{de.westnordost.streetcomplete.expert/de.westnordost.streetcomplete.screens.MainActivity}"
+        drawable="scee" />
+    <item
         component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.MainActivity}"
         drawable="streetcomplete" />
     <item
         component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.screens.MainActivity}"
         drawable="streetcomplete" />
+    <item
+        component="ComponentInfo{de.westnordost.streetmeasure/de.westnordost.streetmeasure.MeasureActivity}"
+        drawable="streetmeasure" />
     <item
         component="ComponentInfo{io.github.lonamiwebs.stringlate/io.github.lonamiwebs.stringlate.activities.repositories.RepositoriesActivity}"
         drawable="stringlate" />
