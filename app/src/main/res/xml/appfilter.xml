@@ -6139,7 +6139,7 @@
         component="ComponentInfo{net.mabako.steamgifts/net.mabako.steamgifts.activities.MainActivity}"
         drawable="steamgifts" />
     <item
-         component="ComponentInfo{de.westnordost.streetcomplete.expert/de.westnordost.streetcomplete.screens.MainActivity}"
+        component="ComponentInfo{de.westnordost.streetcomplete.expert/de.westnordost.streetcomplete.screens.MainActivity}"
         drawable="scee" />
     <item
         component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.MainActivity}"
