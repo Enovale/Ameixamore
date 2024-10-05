@@ -1170,7 +1170,8 @@
         component="ComponentInfo{com.coinbase.android.merchant/com.coinbase.android.MainActivity}"
         drawable="coinbase" />
     <item
-        component="ComponentInfo{com.drdisagree.colorblendr/com.drdisagree.colorblendr.ui.activities.SplashActivity}" drawable="colorblendr" />
+        component="ComponentInfo{com.drdisagree.colorblendr/com.drdisagree.colorblendr.ui.activities.SplashActivity}"
+        drawable="colorblendr" />
     <item
         component="ComponentInfo{org.androidsoft.coloring/org.androidsoft.coloring.ui.activity.SplashActivity}"
         drawable="coloring" />
