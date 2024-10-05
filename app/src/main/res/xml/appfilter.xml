@@ -368,6 +368,9 @@
         component="ComponentInfo{cz.rekola.app/cz.rekola.app.activity.SplashActivity}"
         drawable="rekolacz" />
     <item
+        component="ComponentInfo{app.symfonik.music.player/app.symfonik.ui.MainActivity}"
+        drawable="symfonium" />
+    <item
         component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}"
         drawable="tumblr" />
     <item
@@ -477,6 +480,9 @@
         component="ComponentInfo{pl.animagia/pl.animagia.MainActivity}"
         drawable="animagia" />
     <item
+        component="ComponentInfo{xyz.jmir.tachiyomi.mi/eu.kanade.tachiyomi.ui.main.MainActivity}"
+        drawable="aniyomi" />
+    <item
         component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.DeckPicker}"
         drawable="ankidroid" />
     <item
@@ -488,6 +494,9 @@
     <item
         component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.SplashActivity}"
         drawable="antennapod" />
+    <item
+        component="ComponentInfo{dev.lucanlm.antimine/dev.lucasnlm.antimine.main.MainActivity}"
+        drawable="antimine" />
     <item
         component="ComponentInfo{chat.tox.antox/chat.tox.antox.activities.LoginActivity}"
         drawable="antox" />
@@ -1161,6 +1170,8 @@
         component="ComponentInfo{com.coinbase.android.merchant/com.coinbase.android.MainActivity}"
         drawable="coinbase" />
     <item
+        component="ComponentInfo{com.drdisagree.colorblendr/com.drdisagree.colorblendr.ui.activities.SplashActivity}" drawable="colorblendr" />
+    <item
         component="ComponentInfo{org.androidsoft.coloring/org.androidsoft.coloring.ui.activity.SplashActivity}"
         drawable="coloring" />
     <item
@@ -1487,6 +1498,9 @@
     <item
         component="ComponentInfo{com.voidcode.diasporawebclient/com.voidcode.diasporawebclient.MainActivity}"
         drawable="diasporawebclient" />
+    <item
+        component="ComponentInfo{org.stypox.dicio/org.stypox.dicio.MainActivity}"
+        drawable="dicio" />
     <item
         component="ComponentInfo{de.kugihan.dictionaryformids.hmi_android/de.kugihan.dictionaryformids.hmi_android.DictionaryForMIDs}"
         drawable="dictionaryformids" />
@@ -2448,6 +2462,9 @@
         component="ComponentInfo{com.tananaev.logcat/com.tananaev.logcat.MainActivity}"
         drawable="logcat" />
     <item
+        component="ComponentInfo{com.f0x1d.logfox/com.f0x1d.logfox.ui.activity.MainActivity}"
+        drawable="logfox" />
+    <item
         component="ComponentInfo{za.co.lukestonehm.logicaldefence/za.co.lukestonehm.logicaldefence.MainActivity}"
         drawable="logicaldefence" />
     <item
@@ -2648,6 +2665,9 @@
     <item
         component="ComponentInfo{com.dngames.mobilewebcam/com.dngames.mobilewebcam.MobileWebCam}"
         drawable="mobilewebcam" />
+    <item
+        component="ComponentInfo{im.molly.app/org.thoughtcrime.securesms.RoutingActivity}"
+        drawable="molly" />
     <item
         component="ComponentInfo{ivl.android.moneybalance/ivl.android.moneybalance.CalculationListActivity}"
         drawable="moneybalance" />
@@ -3200,6 +3220,9 @@
     <item
         component="ComponentInfo{net.osmand.srtmPlugin/net.osmand.srtmPlugin.SRTMPluginActivity}"
         drawable="osmand" />
+    <item
+        component="ComponentInfo{org.gittner.osmbugs/org.gittner.osmbugs.ui.MainActivity}"
+        drawable="osmbugs" />
     <item
         component="ComponentInfo{org.gittner.osmbugs/org.gittner.osmbugs.activities.BugMapActivity_}"
         drawable="osmbugs" />
@@ -3843,6 +3866,9 @@
     <item
         component="ComponentInfo{org.retroshare.android.qml_app/org.retroshare.android.qml_app.RetroShareQmlActivity}"
         drawable="retroshare" />
+    <item
+        component="ComponentInfo{app.revanced.manager.flutter/app.revanced.manager.flutter.MainActivity}"
+        drawable="revanced_manager" />
     <item
         component="ComponentInfo{io.mrarm.irc/io.mrarm.irc.MainActivity}"
         drawable="revolution" />
@@ -6049,6 +6075,9 @@
         component="ComponentInfo{com.zegoggles.smssync/com.zegoggles.smssync.SmsSync}"
         drawable="smsbackup" />
     <item
+        component="ComponentInfo{com.github.tmo1.sms_ie/com.github.tmo1.sms_ie.MainActivity}"
+        drawable="sms_import_export" />
+    <item
         component="ComponentInfo{com.github.yeriomin.smsscheduler/com.github.yeriomin.smsscheduler.Activity.SmsListActivity}"
         drawable="smsscheduler" />
     <item
@@ -7578,6 +7607,12 @@
         component="ComponentInfo{org.grapheneos.pdfviewer/org.grapheneos.pdfviewer.PdfViewer}"
         drawable="graphenepdfviewer" />
     <item
+        component="ComponentInfo{app.grapheneos.pdfviewer/app.grapheneos.pdfviewer.PdfViewer}"
+        drawable="graphenepdfviewer" />
+    <item
+        component="ComponentInfo{app.grapheneos.info/app.grapheneos.info.MainActivity}"
+        drawable="grapheneinfo" />
+    <item
         component="ComponentInfo{rkr.simplekeyboard.inputmethod/rkr.simplekeyboard.inputmethod.latin.settings.SettingsActivity}"
         drawable="simplekeyboard" />
     <item
@@ -7789,6 +7824,12 @@
     <item
         component="ComponentInfo{de.spiritcroc.riotx/im.vector.app.features.Alias}"
         drawable="schildichat" />
+    <item
+        component="ComponentInfo{chat.schildi.android/io.element.android.x.MainActivity}"
+        drawable="schildinext" />
+    <item
+        component="ComponentInfo{chat.schildi.next/io.element.android.x.MainActivity}"
+        drawable="schildinext" />
     <item
         component="ComponentInfo{com.ionicframework.backingtrainer763961/com.ionicframework.backingtrainer763961.MainActivity}"
         drawable="backingtrainer" />
@@ -8034,6 +8075,9 @@
         drawable="dkb" />
     <item
         component="ComponentInfo{app.grapheneos.apps/org.grapheneos.apps.client.ui.container.MainActivity}"
+        drawable="grapheneos_apps" />
+    <item
+        component="ComponentInfo{app.grapheneos.apps/app.grapheneos.apps.ui.MainActivity}"
         drawable="grapheneos_apps" />
     <item
         component="ComponentInfo{com.example.flutter_http_server/com.example.flutter_http_server.MainActivity}"
