@@ -374,8 +374,17 @@
         component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}"
         drawable="tumblr" />
     <item
+        component="ComponentInfo{com.instacart.shopper/com.instacart.shopper.splash.screen.SplashActivity}"
+        drawable="instacart_shopper" />
+    <item
+        component="ComponentInfo{com.instacart.client/com.instacart.client.browse.ICBrowseActivity}"
+        drawable="instacart_client" />
+    <item
         component="ComponentInfo{com.notacult.walkscape/com.notacult.walkscape.MainActivity}"
         drawable="walkscape" />
+    <item
+        component="ComponentInfo{com.visiblemobile.flagship/com.visiblemobile.flagship.splash.ui.SplashActivity}"
+        drawable="visible" />
 
     <!-- end of "proprietary" applications -->
 
@@ -716,6 +725,9 @@
     <item
         component="ComponentInfo{com.soyblue.bluesound/com.soyblue.bluesound.MainActivity}"
         drawable="bluemono" />
+    <item
+        component="ComponentInfo{xyz.blueskyweb.app/xyz.blueskyweb.app.MainActivity}"
+        drawable="bluesky" />
     <item
         component="ComponentInfo{com.android.bluetooth/com.android.bluetooth.opp.BluetoothOppLauncherActivity}"
         drawable="bluetooth" />
@@ -2114,6 +2126,9 @@
     <item
         component="ComponentInfo{com.Pau.ImapNotes2/com.Pau.ImapNotes2.Listactivity}"
         drawable="imapnotes" />
+    <item
+        component="ComponentInfo{app.alextran.immich/app.alextran.immich.MainActivity}"
+        drawable="immich" />
     <item
         component="ComponentInfo{eu.e43.impeller/eu.e43.impeller.activity.MainActivity}"
         drawable="impeller" />
