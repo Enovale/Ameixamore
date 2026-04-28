@@ -6,6 +6,7 @@
         <item>abcore</item>
         <item>acaldav</item>
         <item>acastus</item>
+        <item>accrescent</item>
         <item>acode</item>
         <item>activitylauncher</item>
         <item>adaway</item>
@@ -19,6 +20,7 @@
         <item>alarmio</item>
         <item>aliucord</item>
         <item>aliucordinstaller</item>
+        <item>aliucord_manager</item>
         <item>alogcatroot</item>
         <item>altcoin</item>
         <item>alzacz</item>
@@ -38,9 +40,11 @@
         <item>aneko</item>
         <item>anexplorer</item>
         <item>animagia</item>
+        <item>aniyomi</item>
         <item>ankidroid</item>
         <item>ankieditor</item>
         <item>antennapod</item>
+        <item>antimine</item>
         <item>antox</item>
         <item>antwolinux</item>
         <item>anuto</item>
@@ -68,6 +72,7 @@
         <item>atarashii</item>
         <item>atomic</item>
         <item>audiofx</item>
+        <item>audire</item>
         <item>auditor</item>
         <item>aurdroid</item>
         <item>aurora</item>
@@ -115,6 +120,7 @@
         <item>blockpuzzle</item>
         <item>blokada</item>
         <item>bluemono</item>
+        <item>bluesky</item>
         <item>bluetooth</item>
         <item>bluetoothterminal</item>
         <item>bluewallet</item>
@@ -126,6 +132,7 @@
         <item>bootboi</item>
         <item>botbrew</item>
         <item>brave</item>
+        <item>breezy_weather</item>
         <item>briar</item>
         <item>broadcast</item>
         <item>bromite</item>
@@ -137,6 +144,7 @@
         <item>budget</item>
         <item>budgetwatch</item>
         <item>bugreport</item>
+        <item>bunny_manager</item>
         <item>businesscalendar</item>
         <item>busybox</item>
         <item>bvnc</item>
@@ -202,6 +210,7 @@
         <item>cmupdater</item>
         <item>coffee</item>
         <item>coinbase</item>
+        <item>colorblendr</item>
         <item>coloring</item>
         <item>coloringbook</item>
         <item>communitycompass</item>
@@ -267,6 +276,7 @@
         <item>diasporadfa</item>
         <item>diasporanw</item>
         <item>diasporawebclient</item>
+        <item>dicio</item>
         <item>dictcc</item>
         <item>dictionaryformids</item>
         <item>diktofon</item>
@@ -291,6 +301,7 @@
         <item>driibo</item>
         <item>drinks</item>
         <item>droidfish</item>
+        <item>droidify</item>
         <item>droidupnp</item>
         <item>droidwall</item>
         <item>droidweignt</item>
@@ -332,6 +343,7 @@
         <item>etarcalendar</item>
         <item>etchdroid</item>
         <item>ethersynth</item>
+        <item>every_door</item>
         <item>exchange</item>
         <item>exodusprivacy</item>
         <item>facebooknotifications</item>
@@ -432,8 +444,10 @@
         <item>gpstest</item>
         <item>gramophone</item>
         <item>graph89</item>
+        <item>grapheneinfo</item>
         <item>grapheneos_apps</item>
         <item>graphenepdfviewer</item>
+        <item>grayjay</item>
         <item>green</item>
         <item>greenaddress</item>
         <item>greenbits</item>
@@ -471,12 +485,15 @@
         <item>imagepipe</item>
         <item>imapnotes</item>
         <item>imgurviewer</item>
+        <item>immich</item>
         <item>impeller</item>
         <item>impression</item>
         <item>impressremote</item>
         <item>imsicatcher</item>
         <item>inaturalist</item>
         <item>infinity</item>
+        <item>instacart_client</item>
+        <item>instacart_shopper</item>
         <item>instagrabber</item>
         <item>insular</item>
         <item>intentexplode</item>
@@ -563,10 +580,12 @@
         <item>lockclock</item>
         <item>logcat</item>
         <item>logcatreader</item>
+        <item>logfox</item>
         <item>logicaldefence</item>
         <item>loopboard</item>
         <item>loophabits</item>
         <item>loyaltycard</item>
+        <item>lsposed</item>
         <item>ltecleaner</item>
         <item>lumicall</item>
         <item>lunary</item>
@@ -629,10 +648,13 @@
         <item>miuisecuritycenter</item>
         <item>miuithemes</item>
         <item>miuiweather</item>
+        <item>mixplorer</item>
         <item>mlmanager</item>
+        <item>mmrl</item>
         <item>mnml</item>
         <item>mobilewebcam</item>
         <item>mobilizon</item>
+        <item>molly</item>
         <item>monerujo</item>
         <item>monerujostagenet</item>
         <item>moneybalance</item>
@@ -671,6 +693,7 @@
         <item>mythdroid</item>
         <item>mythmote</item>
         <item>mytronome</item>
+        <item>nagram</item>
         <item>naldo</item>
         <item>narau</item>
         <item>nasaimages</item>
@@ -811,6 +834,7 @@
         <item>oasvn</item>
         <item>obscuracam</item>
         <item>obsqr</item>
+        <item>obtainium</item>
         <item>ocbookmarks</item>
         <item>ocr</item>
         <item>ocreader</item>
@@ -882,6 +906,7 @@
         <item>owncloudnews</item>
         <item>owncloudnotes</item>
         <item>owncloudsms</item>
+        <item>owndroid</item>
         <item>packagemanager</item>
         <item>packetsender</item>
         <item>packlist</item>
@@ -950,6 +975,7 @@
         <item>privacyindicators</item>
         <item>privatelocation</item>
         <item>proofmode</item>
+        <item>proton_mail</item>
         <item>protonmail</item>
         <item>protonvpn</item>
         <item>providersmedia</item>
@@ -1002,6 +1028,7 @@
         <item>retroboy</item>
         <item>retrobreaker</item>
         <item>retroshare</item>
+        <item>revanced_manager</item>
         <item>revolut</item>
         <item>revolution</item>
         <item>rgbtool</item>
@@ -1020,14 +1047,17 @@
         <item>rpncalc</item>
         <item>runnerup</item>
         <item>sage</item>
+        <item>sai</item>
         <item>sand</item>
         <item>satstat</item>
         <item>saveforoffline</item>
         <item>savetoncbookmarks</item>
         <item>scanner</item>
         <item>scarletfdroid</item>
+        <item>scee</item>
         <item>schessclock</item>
         <item>schildichat</item>
+        <item>schildinext</item>
         <item>scid</item>
         <item>science</item>
         <item>scrabble</item>
@@ -1144,6 +1174,7 @@
         <item>sms2</item>
         <item>smsbackup</item>
         <item>smsgate</item>
+        <item>sms_import_export</item>
         <item>smsq</item>
         <item>smsscheduler</item>
         <item>smssecure</item>
@@ -1173,6 +1204,7 @@
         <item>steamgifts</item>
         <item>stellarium</item>
         <item>streetcomplete</item>
+        <item>streetmeasure</item>
         <item>stringlate</item>
         <item>subsonic</item>
         <item>substratum</item>
@@ -1188,6 +1220,7 @@
         <item>svgviewer</item>
         <item>swiftnotes</item>
         <item>swisschess</item>
+        <item>symfonium</item>
         <item>synapse</item>
         <item>syncopoli</item>
         <item>syncorg</item>
@@ -1277,6 +1310,7 @@
         <item>ttcomics</item>
         <item>ttleditor</item>
         <item>ttrss</item>
+        <item>tumblr</item>
         <item>tuner</item>
         <item>tunerly</item>
         <item>turboeditor</item>
@@ -1309,6 +1343,7 @@
         <item>urlsanitizer</item>
         <item>usagedirect</item>
         <item>usbmountr</item>
+        <item>vanadium</item>
         <item>vanillamusic</item>
         <item>vanillamusicheadphone</item>
         <item>vectorify</item>
@@ -1323,6 +1358,7 @@
         <item>vimtouch</item>
         <item>vinyl</item>
         <item>virtualhosts</item>
+        <item>visible</item>
         <item>visualbitcoin</item>
         <item>vivaldi</item>
         <item>vivaldisnapshot</item>
@@ -1335,6 +1371,7 @@
         <item>vudroid</item>
         <item>vxconnectbot</item>
         <item>wakeonlan</item>
+        <item>walkscape</item>
         <item>wallabag</item>
         <item>wallet_blue</item>
         <item>walletbudgetbakers</item>
