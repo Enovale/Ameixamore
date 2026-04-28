@@ -52,10 +52,10 @@ do
     do
         for COLOR in ${COLORS_TO_CONVERT_TO_DARK}
         do
-            COUNT=$(grep -iE "<${TAG} .*${ATTR}=\"${COLOR}\"" *.svg | wc -l | awk '{print $1}')
+            COUNT=$(grep -iE "<${TAG}[ |\n].*${ATTR}=\"${COLOR}\"" *.svg | wc -l | awk '{print $1}')
             if [[ "${COUNT}" -ne "0" ]]
             then
-                echo "<${TAG} ${ATTR}=\"${COLOR}\" -> ${COUNT}"
+                echo "<${TAG}[ |\n]${ATTR}=\"${COLOR}\" -> ${COUNT}"
             fi
         done
     done
@@ -72,9 +72,9 @@ do
         do
             for ATTR in ${SVG_ATTR_TO_SEARCH}
             do
-                if [[ $(grep -iEhc "<${TAG} .*${ATTR}=\"${COLOR}\"" ${ICON_NAME}) != 0 ]]
+                if [[ $(grep -iEhc "<${TAG}[ |\n].*${ATTR}=\"${COLOR}\"" ${ICON_NAME}) != 0 ]]
                 then
-                    sed -i -e 's/\('${TAG}' .*'${ATTR}'="\)'${COLOR}'"/\1'${DARK_COLOR}'"/gi' ${ICON_NAME}
+                    sed -i -e 's/\('${TAG}'[ |\n].*'${ATTR}'="\)'${COLOR}'"/\1'${DARK_COLOR}'"/gi' ${ICON_NAME}
                 fi
             done
         done
