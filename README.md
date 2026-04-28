@@ -1,3 +1,11 @@
+# Ameixamore
+
+This is a fork of [Ameixa](https://gitlab.com/xphnx/ameixa) to continue adding icons because that package hasnt seen activity for 2 years and doesnt seem super actively maintained for even longer.
+
+To be clear, I cannot extremely actively maintain this pack but I will add icons needed for my phone, and I will happily get pull requests merged for the foreseeable future.
+
+# Original README Below
+
 [![pipeline status](https://gitlab.com/xphnx/ameixa/badges/master/pipeline.svg)](https://gitlab.com/xphnx/ameixa/-/commits/master)
 [![F-Droid version ameixa](https://img.shields.io/f-droid/v/org.xphnx.ameixa.svg)](https://f-droid.org/en/packages/org.xphnx.ameixa/)
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fxphnx.gitlab.io%2Fameixa%2F)](https://xphnx.gitlab.io/ameixa/)
