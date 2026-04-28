@@ -2214,6 +2214,9 @@
         component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}"
         drawable="kdeconnect" />
     <item
+        component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.ui.MainActivity}"
+        drawable="kdeconnect" />
+    <item
         component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MaterialActivity}"
         drawable="kdeconnect" />
     <item
@@ -6976,6 +6979,9 @@
         component="ComponentInfo{net.bytten.xkcdviewer/net.bytten.xkcdviewer.XkcdViewerActivity}"
         drawable="xkcdviewer" />
     <item
+        component="ComponentInfo{org.lsposed.manager/org.lsposed.manager.ui.activity.MainActivity}"
+        drawable="lsposed" />
+    <item
         component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity}"
         drawable="xposed" />
     <item
@@ -7664,6 +7670,9 @@
     <item
         component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity}"
         drawable="magiskmanager" />
+    <item
+        component="ComponentInfo{com.dergoogler.mmrl/com.dergoogler.mmrl.ui.activity.MainActivity}"
+        drawable="mmrl" />
     <item
         component="ComponentInfo{com.jim.sharetocomputer/com.jim.sharetocomputer.MainActivity}"
         drawable="sharetocomputer" />
@@ -8392,6 +8401,9 @@
     <item
         component="ComponentInfo{moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity}"
         drawable="shizuku" />
+    <item
+        component="ComponentInfo{com.bintianqi.owndroid/com.bintianqi.owndroid.MainActivity}"
+        drawable="owndroid" />
     <item
         component="ComponentInfo{net.kdt.pojavlaunch/net.kdt.pojavlaunch.PojavLoginActivity}"
         drawable="pojavlauncher" />
