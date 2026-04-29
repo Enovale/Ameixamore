@@ -28,19 +28,35 @@ if [[ ! -e app/src/monochromatic/res/drawable-xxxhdpi ]]; then
     mkdir -p app/src/monochromatic/res/drawable-xxxhdpi
 fi
 
-# get from icons/monochromatic
 for SVG in icons/monochromatic/*.svg
 do
     if [[ -f "${SVG}" ]]; then
         N=$(basename ${SVG} .svg)
-        inkscape -w 48 -h 48 -o app/src/monochromatic/res/drawable-mdpi/${N}.png ${SVG}
-        inkscape -w 72 -h 72 -o app/src/monochromatic/res/drawable-hdpi/${N}.png ${SVG}
-        inkscape -w 96 -h 96 -o app/src/monochromatic/res/drawable-xhdpi/${N}.png ${SVG}
-        inkscape -w 144 -h 144 -o app/src/monochromatic/res/drawable-xxhdpi/${N}.png ${SVG}
-        inkscape -w 192 -h 192 -o app/src/monochromatic/res/drawable-xxxhdpi/${N}.png ${SVG}
+        echo "Exporting ${SVG}..."
 
+        # Reuse the same inkscape process to export all resolutions, it's a bit gross to read but its much faster!
+        ACTIONS=$(cat <<-END
+export-width:48; export-height:48; export-filename:app/src/monochromatic/res/drawable-mdpi/${N}.png; export-do;\
+export-width:72; export-height:72; export-filename:app/src/monochromatic/res/drawable-hdpi/${N}.png; export-do;\
+export-width:96; export-height:96; export-filename:app/src/monochromatic/res/drawable-xhdpi/${N}.png; export-do;\
+export-width:144; export-height:144; export-filename:app/src/monochromatic/res/drawable-xxhdpi/${N}.png; export-do;\
+export-width:192; export-height:192; export-filename:app/src/monochromatic/res/drawable-xxxhdpi/${N}.png; export-do;
+END
+)
+        inkscape --actions="${ACTIONS}" ${SVG}
+    fi
+done
+
+scour_svg() {
+    SVG=$1
+    if [[ -f "${SVG}" ]]; then
         cp ${SVG} ${SVG}.tmp
         scour --remove-descriptive-elements --enable-id-stripping --enable-viewboxing --enable-comment-stripping --nindent=4 -i ${SVG}.tmp -o ${SVG}
         rm ${SVG}.tmp
     fi
-done
+}
+
+export -f scour_svg
+
+# Inkscape doesn't like running multiple jobs at once so we can't reliably parallelize it
+parallel scour_svg ::: icons/monochromatic/*.svg

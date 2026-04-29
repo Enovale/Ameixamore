@@ -61,10 +61,8 @@ do
     done
 done
 
-# I want to see it painted, painted, painted, painted black
-echo "Converting icons..."
-for ICON_NAME in *svg
-do
+monochrome_icon() {
+    ICON_NAME=$1
     echo Monochroming ${ICON_NAME}...
     for COLOR in ${COLORS_TO_CONVERT_TO_DARK}
     do
@@ -79,7 +77,17 @@ do
             done
         done
     done
-done
+}
+
+export COLORS_TO_CONVERT_TO_DARK
+export SVG_TAGS_TO_SEARCH
+export SVG_ATTR_TO_SEARCH
+export DARK_COLOR
+export -f monochrome_icon
+
+# I want to see it painted, painted, painted, painted black
+echo "Converting icons..."
+parallel monochrome_icon ::: *svg
 
 # hasta aqui funciona OK, revisar arriba los colores para arreglar fallo naranja
 # up here works OK, check the colors above to fix orange failure

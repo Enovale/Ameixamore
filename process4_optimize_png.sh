@@ -8,24 +8,24 @@ ICON_SIZES="drawable-mdpi drawable-hdpi drawable-xhdpi drawable-xxhdpi drawable-
 
 OPTIPNG_OPTIONS="-preserve -quiet -o7"
 
-for TYPE in ${ICON_TYPES}
-do
-    echo ""
-    echo "Type: ${TYPE}"
-    for SIZE in ${ICON_SIZES}
+export OPTIPNG_OPTIONS
+
+optimize_png() {
+    TYPE=$1
+    SIZE=$2
+    echo "Type: ${TYPE}; Size: ${SIZE}"
+    for FILE in app/src/${TYPE}/res/${SIZE}/*.png
     do
-        echo ""
-        echo "Size: ${SIZE}"
-        for FILE in app/src/${TYPE}/res/${SIZE}/*.png
-        do
-            echo ""
-            echo "File: ${FILE}"
-            if [[ -f "${FILE}" ]]
-            then
-                optipng ${OPTIPNG_OPTIONS} ${FILE}
-            else
-                echo "Warning: File not found: ${FILE}"
-            fi
-        done
+        echo "File: ${FILE}"
+        if [[ -f "${FILE}" ]]
+        then
+        optipng ${OPTIPNG_OPTIONS} ${FILE}
+        else
+        echo "Warning: File not found: ${FILE}"
+        fi
     done
-done
+}
+
+export -f optimize_png
+
+parallel optimize_png ::: ${ICON_TYPES} ::: ${ICON_SIZES}
