@@ -2,7 +2,10 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 30
-    buildToolsVersion "30.0.3"
+
+    buildFeatures {
+        buildConfig = true
+    }
 
     defaultConfig {
         applicationId "org.xphnx.ameixa"
@@ -15,7 +18,7 @@ android {
     buildTypes {
         release {
             minifyEnabled true
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt')
         }
         debug {
             zipAlignEnabled true
@@ -37,17 +40,25 @@ android {
     }
 
     compileOptions {
-        encoding "UTF-8"
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        encoding = "UTF-8"
+        sourceCompatibility JavaVersion.VERSION_21
+        targetCompatibility JavaVersion.VERSION_21
     }
-
-    lintOptions {
-        disable 'GoogleAppIndexingWarning'
-    }
-
     packagingOptions {
-        exclude 'META-INF/*'
+        jniLibs {
+            excludes += ['META-INF/*']
+        }
+        resources {
+            excludes += ['META-INF/*']
+        }
+    }
+
+
+    namespace = 'org.xphnx.ameixa'
+    lint {
+        disable 'GoogleAppIndexingWarning'
+        // Not sure if we really want this
+        disable 'ExpiredTargetSdkVersion'
     }
 }
 

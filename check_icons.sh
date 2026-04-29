@@ -7,6 +7,9 @@ SVG_BASE_FOLDER="icons"
 TODO_FOLDER="todo"
 ICON_TYPES="chromatic monochromatic"
 ICON_SIZES="drawable-mdpi drawable-hdpi drawable-xhdpi drawable-xxhdpi drawable-xxxhdpi"
+IM_CMD=$(command -v magick)
+CONV_CMD=$(command -v convert)
+MAGICK=${IM_CMD:-${CONV_CMD}}
 
 DEFAULT_ICON_TYPE=$(echo "${ICON_TYPES}" | cut -d" " -f1)
 
@@ -223,7 +226,7 @@ PNG_MONOCHROMATIC_BASE_FOLDER="app/src/monochromatic/res/drawable-xxxhdpi"
 for PNG in ${PNG_MONOCHROMATIC_BASE_FOLDER}/*.png
 do
     # compare image with its grayscaled clone
-    MISMATCH_VALUE="$(magick "${PNG}" \( +clone -colorspace Gray \) -metric AE -compare -format %[distortion] info: | awk '{print $1}')"
+    MISMATCH_VALUE="$(${MAGICK} "${PNG}" \( +clone -colorspace Gray \) -metric AE -compare -format %[distortion] info: | awk '{print $1}')"
 
     if [[ "${MISMATCH_VALUE}" != "0" ]]; then
         echo "File icon seems not properly monochromed: ${PNG} // ${MISMATCH_VALUE}"
