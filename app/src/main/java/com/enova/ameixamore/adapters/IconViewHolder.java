@@ -7,11 +7,13 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.Toast;
 
+import androidx.annotation.Keep;
 import androidx.annotation.NonNull;
 import androidx.core.content.res.ResourcesCompat;
 
 import java.lang.ref.WeakReference;
 
+@Keep
 public class IconViewHolder extends ViewHolderAdapter.ViewHolder<String> {
     private final ImageView icon;
     private AsyncTask<String, Void, Drawable> asyncLoad = null;
