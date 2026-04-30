@@ -7,7 +7,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activities.MainActivity">
+        <activity android:name="com.enova.ameixamore.activities.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -28,7 +28,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity android:name=".activities.LicenseActivity" />
-        <activity android:name=".activities.IconActivity" />
+        <activity android:name="com.enova.ameixamore.activities.LicenseActivity" />
+        <activity android:name="com.enova.ameixamore.activities.IconActivity" />
     </application>
 </manifest>

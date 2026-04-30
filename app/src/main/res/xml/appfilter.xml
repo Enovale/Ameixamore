@@ -756,6 +756,9 @@
         component="ComponentInfo{org.breezyweather/org.breezyweather.main.MainActivity}"
         drawable="breezy_weather" />
     <item
+        component="ComponentInfo{org.breezyweather/org.breezyweather.ui.main.MainActivity}"
+        drawable="breezy_weather" />
+    <item
         component="ComponentInfo{org.briarproject.briar.beta/org.briarproject.briar.android.splash.SplashScreenActivity}"
         drawable="briar" />
     <item

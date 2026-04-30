@@ -1,4 +1,4 @@
-package org.xphnx.ameixa.views;
+package com.enova.ameixamore.views;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
@@ -10,8 +10,8 @@ import android.widget.TextView;
 import androidx.appcompat.widget.LinearLayoutCompat;
 import androidx.core.content.res.ResourcesCompat;
 
-import org.xphnx.ameixa.R;
-import org.xphnx.ameixa.utils.ScreenUtils;
+import com.enova.ameixamore.R;
+import com.enova.ameixamore.utils.ScreenUtils;
 
 public class CenterButton extends LinearLayoutCompat {
     public Context context;

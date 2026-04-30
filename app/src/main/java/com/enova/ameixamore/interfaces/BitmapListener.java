@@ -1,4 +1,4 @@
-package org.xphnx.ameixa.interfaces;
+package com.enova.ameixamore.interfaces;
 
 import android.graphics.Bitmap;
 

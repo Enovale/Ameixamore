@@ -1,4 +1,4 @@
-package org.xphnx.ameixa.adapters;
+package com.enova.ameixamore.adapters;
 
 import android.os.AsyncTask;
 import android.util.Log;
@@ -11,7 +11,7 @@ import androidx.annotation.LayoutRes;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import org.xphnx.ameixa.BuildConfig;
+import com.enova.ameixamore.BuildConfig;
 
 import java.util.Collection;
 

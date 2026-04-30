@@ -1,4 +1,4 @@
-package org.xphnx.ameixa.adapters;
+package com.enova.ameixamore.adapters;
 
 import java.util.ArrayList;
 

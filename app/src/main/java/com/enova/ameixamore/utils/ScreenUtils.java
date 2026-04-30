@@ -1,4 +1,4 @@
-package org.xphnx.ameixa.utils;
+package com.enova.ameixamore.utils;
 
 import android.content.Context;
 

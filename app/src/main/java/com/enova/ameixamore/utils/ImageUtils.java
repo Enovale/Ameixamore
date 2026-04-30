@@ -1,4 +1,4 @@
-package org.xphnx.ameixa.utils;
+package com.enova.ameixamore.utils;
 
 import android.content.res.Resources;
 import android.graphics.Bitmap;
@@ -10,7 +10,7 @@ import android.widget.ImageView;
 
 import androidx.core.graphics.drawable.DrawableCompat;
 
-import org.xphnx.ameixa.async.BitmapLoadTask;
+import com.enova.ameixamore.async.BitmapLoadTask;
 
 public class ImageUtils {
     public static void bitmapLoadAsync(final ImageView imageView, final Resources resources,

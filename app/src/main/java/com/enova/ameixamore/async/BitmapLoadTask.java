@@ -1,11 +1,11 @@
-package org.xphnx.ameixa.async;
+package com.enova.ameixamore.async;
 
 import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.os.AsyncTask;
 
-import org.xphnx.ameixa.interfaces.BitmapListener;
-import org.xphnx.ameixa.utils.ImageUtils;
+import com.enova.ameixamore.interfaces.BitmapListener;
+import com.enova.ameixamore.utils.ImageUtils;
 
 public class BitmapLoadTask extends AsyncTask<Integer, Void, Bitmap> {
 

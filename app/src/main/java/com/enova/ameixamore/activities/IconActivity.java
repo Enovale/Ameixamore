@@ -1,22 +1,13 @@
-package org.xphnx.ameixa.activities;
+package com.enova.ameixamore.activities;
 
-import android.graphics.Rect;
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextWatcher;
-import android.view.Gravity;
-import android.view.View;
 import android.widget.EditText;
 import android.widget.GridView;
-import android.widget.ImageView;
-import android.widget.LinearLayout;
-import android.widget.LinearLayout.LayoutParams;
-import android.widget.ScrollView;
 
-import org.xphnx.ameixa.R;
-import org.xphnx.ameixa.adapters.IconAdapter;
-import org.xphnx.ameixa.utils.ImageUtils;
-import org.xphnx.ameixa.utils.ScreenUtils;
+import com.enova.ameixamore.R;
+import com.enova.ameixamore.adapters.IconAdapter;
 
 import java.util.ArrayList;
 import java.util.Collections;

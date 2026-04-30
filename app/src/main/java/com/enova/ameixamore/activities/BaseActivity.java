@@ -1,4 +1,4 @@
-package org.xphnx.ameixa.activities;
+package com.enova.ameixamore.activities;
 
 import android.os.Build;
 import android.os.Bundle;
@@ -6,7 +6,7 @@ import android.view.WindowManager;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import org.xphnx.ameixa.R;
+import com.enova.ameixamore.R;
 
 public abstract class BaseActivity extends AppCompatActivity {
 

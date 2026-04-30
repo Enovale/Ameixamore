@@ -1,12 +1,12 @@
-package org.xphnx.ameixa.activities;
+package com.enova.ameixamore.activities;
 
 import android.os.Bundle;
 import android.view.Gravity;
 import android.widget.LinearLayout;
 
-import org.xphnx.ameixa.R;
-import org.xphnx.ameixa.utils.IntentUtils;
-import org.xphnx.ameixa.views.CenterButton;
+import com.enova.ameixamore.R;
+import com.enova.ameixamore.utils.IntentUtils;
+import com.enova.ameixamore.views.CenterButton;
 
 public class MainActivity extends BaseActivity {
 
