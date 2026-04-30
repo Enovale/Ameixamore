@@ -249,6 +249,7 @@
     <item drawable="cupsprint" />
     <item drawable="cupsprintservice" />
     <item drawable="currencyconverter" />
+    <item drawable="custota" />
     <item drawable="cvproject" />
     <item drawable="cythara" />
     <item drawable="dagger" />
@@ -492,8 +493,6 @@
     <item drawable="imsicatcher" />
     <item drawable="inaturalist" />
     <item drawable="infinity" />
-    <item drawable="instacart_client" />
-    <item drawable="instacart_shopper" />
     <item drawable="instagrabber" />
     <item drawable="insular" />
     <item drawable="intentexplode" />
@@ -528,6 +527,7 @@
     <item drawable="keepscore" />
     <item drawable="kerneladiutor" />
     <item drawable="keyboardswitcher" />
+    <item drawable="keydriver" />
     <item drawable="keypadmapper" />
     <item drawable="kisslauncher" />
     <item drawable="kitsu" />
@@ -648,7 +648,6 @@
     <item drawable="miuisecuritycenter" />
     <item drawable="miuithemes" />
     <item drawable="miuiweather" />
-    <item drawable="mixplorer" />
     <item drawable="mlmanager" />
     <item drawable="mmrl" />
     <item drawable="mnml" />
@@ -670,6 +669,7 @@
     <item drawable="mozstumbler" />
     <item drawable="mpdroid" />
     <item drawable="mpv" />
+    <item drawable="msd" />
     <item drawable="mtgfamiliar" />
     <item drawable="mull" />
     <item drawable="mullvadvpn" />
@@ -767,6 +767,8 @@
     <item drawable="nonfree_ilevia" />
     <item drawable="nonfree_ilovehue" />
     <item drawable="nonfree_ilovehuetoo" />
+    <item drawable="nonfree_instacart_client" />
+    <item drawable="nonfree_instacart_shopper" />
     <item drawable="nonfree_instagram" />
     <item drawable="nonfree_intermarche" />
     <item drawable="nonfree_lastfm" />
@@ -778,6 +780,7 @@
     <item drawable="nonfree_microsoftoffice" />
     <item drawable="nonfree_microsoftonenote" />
     <item drawable="nonfree_microsoftteams" />
+    <item drawable="nonfree_mixplorer" />
     <item drawable="nonfree_myedenred" />
     <item drawable="nonfree_myphone" />
     <item drawable="nonfree_nintendoswitchonline" />
@@ -801,22 +804,28 @@
     <item drawable="nonfree_spotify" />
     <item drawable="nonfree_spotifykids" />
     <item drawable="nonfree_steam" />
+    <item drawable="nonfree_symfonium" />
     <item drawable="nonfree_teamviewer" />
     <item drawable="nonfree_telmex" />
+    <item drawable="nonfree_tidal" />
     <item drawable="nonfree_tinder" />
     <item drawable="nonfree_tisseo" />
     <item drawable="nonfree_titaniumbackup" />
+    <item drawable="nonfree_tumblr" />
     <item drawable="nonfree_twitch" />
     <item drawable="nonfree_twitter" />
     <item drawable="nonfree_uber" />
     <item drawable="nonfree_ultimatesoftware" />
+    <item drawable="nonfree_visible" />
     <item drawable="nonfree_vivino" />
+    <item drawable="nonfree_walkscape" />
     <item drawable="nonfree_waze" />
     <item drawable="nonfree_wechat" />
     <item drawable="nonfree_weex" />
     <item drawable="nonfree_whatsapp" />
     <item drawable="nonfree_youtube" />
     <item drawable="nonfree_ytmusic" />
+    <item drawable="nonfree_zoom" />
     <item drawable="nonocross" />
     <item drawable="nonsensenotepad" />
     <item drawable="nori" />
@@ -1220,7 +1229,6 @@
     <item drawable="svgviewer" />
     <item drawable="swiftnotes" />
     <item drawable="swisschess" />
-    <item drawable="symfonium" />
     <item drawable="synapse" />
     <item drawable="syncopoli" />
     <item drawable="syncorg" />
@@ -1269,7 +1277,6 @@
     <item drawable="thetranslator" />
     <item drawable="threema" />
     <item drawable="tickmate" />
-    <item drawable="tidal" />
     <item drawable="tide" />
     <item drawable="tigase" />
     <item drawable="timber" />
@@ -1310,7 +1317,6 @@
     <item drawable="ttcomics" />
     <item drawable="ttleditor" />
     <item drawable="ttrss" />
-    <item drawable="tumblr" />
     <item drawable="tuner" />
     <item drawable="tunerly" />
     <item drawable="turboeditor" />
@@ -1358,7 +1364,6 @@
     <item drawable="vimtouch" />
     <item drawable="vinyl" />
     <item drawable="virtualhosts" />
-    <item drawable="visible" />
     <item drawable="visualbitcoin" />
     <item drawable="vivaldi" />
     <item drawable="vivaldisnapshot" />
@@ -1371,7 +1376,6 @@
     <item drawable="vudroid" />
     <item drawable="vxconnectbot" />
     <item drawable="wakeonlan" />
-    <item drawable="walkscape" />
     <item drawable="wallabag" />
     <item drawable="wallet_blue" />
     <item drawable="walletbudgetbakers" />
@@ -1453,5 +1457,4 @@
     <item drawable="zapp" />
     <item drawable="zapwallet" />
     <item drawable="zooforzotero" />
-    <item drawable="zoom" />
 </resources>

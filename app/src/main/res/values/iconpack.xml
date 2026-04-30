@@ -249,6 +249,7 @@
         <item>cupsprint</item>
         <item>cupsprintservice</item>
         <item>currencyconverter</item>
+        <item>custota</item>
         <item>cvproject</item>
         <item>cythara</item>
         <item>dagger</item>
@@ -492,8 +493,6 @@
         <item>imsicatcher</item>
         <item>inaturalist</item>
         <item>infinity</item>
-        <item>instacart_client</item>
-        <item>instacart_shopper</item>
         <item>instagrabber</item>
         <item>insular</item>
         <item>intentexplode</item>
@@ -528,6 +527,7 @@
         <item>keepscore</item>
         <item>kerneladiutor</item>
         <item>keyboardswitcher</item>
+        <item>keydriver</item>
         <item>keypadmapper</item>
         <item>kisslauncher</item>
         <item>kitsu</item>
@@ -648,7 +648,6 @@
         <item>miuisecuritycenter</item>
         <item>miuithemes</item>
         <item>miuiweather</item>
-        <item>mixplorer</item>
         <item>mlmanager</item>
         <item>mmrl</item>
         <item>mnml</item>
@@ -670,6 +669,7 @@
         <item>mozstumbler</item>
         <item>mpdroid</item>
         <item>mpv</item>
+        <item>msd</item>
         <item>mtgfamiliar</item>
         <item>mull</item>
         <item>mullvadvpn</item>
@@ -767,6 +767,8 @@
         <item>nonfree_ilevia</item>
         <item>nonfree_ilovehue</item>
         <item>nonfree_ilovehuetoo</item>
+        <item>nonfree_instacart_client</item>
+        <item>nonfree_instacart_shopper</item>
         <item>nonfree_instagram</item>
         <item>nonfree_intermarche</item>
         <item>nonfree_lastfm</item>
@@ -778,6 +780,7 @@
         <item>nonfree_microsoftoffice</item>
         <item>nonfree_microsoftonenote</item>
         <item>nonfree_microsoftteams</item>
+        <item>nonfree_mixplorer</item>
         <item>nonfree_myedenred</item>
         <item>nonfree_myphone</item>
         <item>nonfree_nintendoswitchonline</item>
@@ -801,22 +804,28 @@
         <item>nonfree_spotify</item>
         <item>nonfree_spotifykids</item>
         <item>nonfree_steam</item>
+        <item>nonfree_symfonium</item>
         <item>nonfree_teamviewer</item>
         <item>nonfree_telmex</item>
+        <item>nonfree_tidal</item>
         <item>nonfree_tinder</item>
         <item>nonfree_tisseo</item>
         <item>nonfree_titaniumbackup</item>
+        <item>nonfree_tumblr</item>
         <item>nonfree_twitch</item>
         <item>nonfree_twitter</item>
         <item>nonfree_uber</item>
         <item>nonfree_ultimatesoftware</item>
+        <item>nonfree_visible</item>
         <item>nonfree_vivino</item>
+        <item>nonfree_walkscape</item>
         <item>nonfree_waze</item>
         <item>nonfree_wechat</item>
         <item>nonfree_weex</item>
         <item>nonfree_whatsapp</item>
         <item>nonfree_youtube</item>
         <item>nonfree_ytmusic</item>
+        <item>nonfree_zoom</item>
         <item>nonocross</item>
         <item>nonsensenotepad</item>
         <item>nori</item>
@@ -1220,7 +1229,6 @@
         <item>svgviewer</item>
         <item>swiftnotes</item>
         <item>swisschess</item>
-        <item>symfonium</item>
         <item>synapse</item>
         <item>syncopoli</item>
         <item>syncorg</item>
@@ -1269,7 +1277,6 @@
         <item>thetranslator</item>
         <item>threema</item>
         <item>tickmate</item>
-        <item>tidal</item>
         <item>tide</item>
         <item>tigase</item>
         <item>timber</item>
@@ -1310,7 +1317,6 @@
         <item>ttcomics</item>
         <item>ttleditor</item>
         <item>ttrss</item>
-        <item>tumblr</item>
         <item>tuner</item>
         <item>tunerly</item>
         <item>turboeditor</item>
@@ -1358,7 +1364,6 @@
         <item>vimtouch</item>
         <item>vinyl</item>
         <item>virtualhosts</item>
-        <item>visible</item>
         <item>visualbitcoin</item>
         <item>vivaldi</item>
         <item>vivaldisnapshot</item>
@@ -1371,7 +1376,6 @@
         <item>vudroid</item>
         <item>vxconnectbot</item>
         <item>wakeonlan</item>
-        <item>walkscape</item>
         <item>wallabag</item>
         <item>wallet_blue</item>
         <item>walletbudgetbakers</item>
@@ -1453,6 +1457,5 @@
         <item>zapp</item>
         <item>zapwallet</item>
         <item>zooforzotero</item>
-        <item>zoom</item>
     </string-array>
 </resources>

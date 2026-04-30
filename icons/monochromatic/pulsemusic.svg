@@ -14,6 +14,9 @@
             <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
             <feBlend in="SourceGraphic" in2="pf_100_dropShadow"/>
         </filter>
+        <clipPath>
+            <rect x="126" y="126" width="260" height="260" fill="#fff"/>
+        </clipPath>
     </defs>
     <g transform="translate(0 -1093.8)">
         <path transform="matrix(1.0781 0 0 1.0641 -.093733 2.7509)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051z" fill="#232323" filter="url(#filter6206-7)" opacity=".2"/>
