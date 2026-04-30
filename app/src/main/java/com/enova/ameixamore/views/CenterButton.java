@@ -1,6 +1,7 @@
 package com.enova.ameixamore.views;
 
 import android.content.Context;
+import android.content.res.Configuration;
 import android.graphics.drawable.Drawable;
 import android.view.Gravity;
 import android.widget.ImageView;
@@ -42,8 +43,10 @@ public class CenterButton extends LinearLayoutCompat {
         button.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT));
         button.setGravity(Gravity.CENTER);
 
-        setForeground(R.color.textLight);
-        setBackground(R.color.colorLight);
+        int nightModeFlags =  textView.getContext().getResources().getConfiguration().uiMode & Configuration.UI_MODE_NIGHT_MASK;
+
+        setForeground(nightModeFlags == Configuration.UI_MODE_NIGHT_YES ? R.color.textDark : R.color.textLight);
+        setBackground(nightModeFlags == Configuration.UI_MODE_NIGHT_YES ? R.color.colorDark : R.color.colorLight);
         setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT, 1f));
         setGravity(Gravity.CENTER);
         addView(button);

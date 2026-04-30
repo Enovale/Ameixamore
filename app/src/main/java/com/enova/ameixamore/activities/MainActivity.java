@@ -1,5 +1,6 @@
 package com.enova.ameixamore.activities;
 
+import android.content.res.Configuration;
 import android.os.Bundle;
 import android.view.Gravity;
 import android.widget.LinearLayout;
@@ -19,7 +20,8 @@ public class MainActivity extends BaseActivity {
     private void createLayout() {
         LinearLayout frameLayout = new LinearLayout(this);
         frameLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT));
-        frameLayout.setBackgroundColor(getResources().getColor(R.color.colorLight));
+        int nightModeFlags = getResources().getConfiguration().uiMode & Configuration.UI_MODE_NIGHT_MASK;
+        frameLayout.setBackgroundColor(getResources().getColor(nightModeFlags == Configuration.UI_MODE_NIGHT_YES ? R.color.colorDark : R.color.colorLight));
         frameLayout.setGravity(Gravity.CENTER);
         setContentView(frameLayout);
 

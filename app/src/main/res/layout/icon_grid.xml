@@ -4,12 +4,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="16dp">
+    android:fitsSystemWindows="true"
+    android:layout_margin="16dp">
 
     <EditText
         android:id="@+id/searchBar"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="48dp"
         android:hint="@string/searchHint"
         android:importantForAutofill="no"
         android:inputType="text"
@@ -17,7 +18,8 @@
         android:maxLines="1"
         android:textColorHint="@color/textDark"
         android:backgroundTint="@color/textDark"
-        android:textColor="@color/textDark"/>
+        android:textColor="@color/textDark"
+        tools:ignore="UnusedAttribute" />
 
     <GridView
         android:id="@+id/iconGrid"
