@@ -330,6 +330,9 @@
         component="ComponentInfo{com.Bisha.TI89EmuDonation/com.graph89.emulationcore.EmulatorActivity}"
         drawable="graph89" />
     <item
+        component="ComponentInfo{com.bisimplex.firebooru/com.bisimplex.firebooru.activity.MainActivity}"
+        drawable="nonfree_animeboxes" />
+    <item
         component="ComponentInfo{com.EthanHeming.NeuralNetworkSimulator/com.EthanHeming.NeuralNetworkSimulator.MainActivity}"
         drawable="neuralnetworks" />
     <item
@@ -338,6 +341,9 @@
     <item
         component="ComponentInfo{com.Pau.ImapNotes2/com.Pau.ImapNotes2.Listactivity}"
         drawable="imapnotes" />
+    <item
+        component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}"
+        drawable="nonfree_paypal" />
     <item
         component="ComponentInfo{com.SecUpwN.AIMSICD/com.SecUpwN.AIMSICD.AIMSICD}"
         drawable="imsicatcher" />
@@ -2388,6 +2394,9 @@
         component="ComponentInfo{com.iven.xdafeedreader/com.iven.xdafeedreader.mainact.SplashActivity}"
         drawable="xdafeedreader" />
     <item
+        component="ComponentInfo{com.iyps/com.iyps.activities.MainActivity}"
+        drawable="iyps" />
+    <item
         component="ComponentInfo{com.jadn.cc/com.jadn.cc.ui.CarCast}"
         drawable="carcast" />
     <item
@@ -2618,6 +2627,9 @@
     <item
         component="ComponentInfo{com.mareksebera.simpledilbert/com.mareksebera.simpledilbert.core.DilbertFragmentActivity}"
         drawable="dilbert" />
+    <item
+        component="ComponentInfo{com.marktka.calculatorYou/com.forz.calculator.MainActivity}"
+        drawable="calculator3" />
     <item
         component="ComponentInfo{com.maskyn.fileeditor/com.maskyn.fileeditor.HomeActivity}"
         drawable="turboeditor" />
@@ -3153,6 +3165,9 @@
         component="ComponentInfo{com.roozen.SoundManagerv2/com.roozen.SoundManagerv2.MainSettings}"
         drawable="soundmanager" />
     <item
+        component="ComponentInfo{com.rosan.dhizuku/com.rosan.dhizuku.ui.activity.SettingsActivity}"
+        drawable="dhizuku" />
+    <item
         component="ComponentInfo{com.rte.eco2mix/com.rte.eco2mix.modestart.HomeActivity}"
         drawable="nonfree_rteeco2mix" />
     <item
@@ -3269,6 +3284,9 @@
     <item
         component="ComponentInfo{com.shadcat.secdroid/com.shadcat.secdroid.MainActivity}"
         drawable="secdroid" />
+    <item
+        component="ComponentInfo{com.shadowflee.fluxer/com.shadowflee.fluxer.MainActivity}"
+        drawable="fluxer" />
     <item
         component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.ShatteredPixelDungeon}"
         drawable="shatteredpixel" />
@@ -5925,6 +5943,9 @@
         component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity}"
         drawable="firewall" />
     <item
+        component="ComponentInfo{dev.zwander.installwithoptions/dev.zwander.installwithoptions.MainActivity}"
+        drawable="installwithoptions" />
+    <item
         component="ComponentInfo{dk.andsen.asqlitemanager/dk.andsen.asqlitemanager.aSQLiteManager}"
         drawable="asqlitemanager" />
     <item
@@ -5969,6 +5990,9 @@
     <item
         component="ComponentInfo{eu.flatworld.android.slider/eu.flatworld.android.slider.MenuActivity}"
         drawable="slidersynth" />
+    <item
+        component="ComponentInfo{eu.hxreborn.phdp/eu.hxreborn.phdp.LauncherAlias}"
+        drawable="punch-holedownloadprogress" />
     <item
         component="ComponentInfo{eu.kanade.tachiyomi.az/eu.kanade.tachiyomi.ui.main.MainActivity}"
         drawable="tachiyomi" />
@@ -6348,6 +6372,9 @@
         component="ComponentInfo{io.github.pyoncord.manager/dev.beefers.vendetta.manager.ui.activity.MainActivity}"
         drawable="bunny_manager" />
     <item
+        component="ComponentInfo{io.github.quillpad/org.qosp.notes.ui.launcher.LauncherActivity}"
+        drawable="quillpad" />
+    <item
         component="ComponentInfo{io.github.subhamtyagi.ocr/io.github.subhamtyagi.ocr.MainActivity}"
         drawable="ocr" />
     <item
@@ -6380,6 +6407,9 @@
     <item
         component="ComponentInfo{io.mrarm.irc/io.mrarm.irc.MainActivity}"
         drawable="revolution" />
+    <item
+        component="ComponentInfo{io.suvam.dhaaga.lite/io.suvam.dhaaga.lite.MainActivity}"
+        drawable="dhaaga" />
     <item
         component="ComponentInfo{io.timelimit.android.open/io.timelimit.android.ui.MainActivity}"
         drawable="timelimit" />
