@@ -273,6 +273,8 @@
     <item drawable="deskcon" />
     <item drawable="devtools" />
     <item drawable="dgapps" />
+    <item drawable="dhaaga" />
+    <item drawable="dhizuku" />
     <item drawable="diab" />
     <item drawable="diasporadfa" />
     <item drawable="diasporanw" />
@@ -384,6 +386,7 @@
     <item drawable="floatingstickies" />
     <item drawable="florisboard" />
     <item drawable="fluffychat" />
+    <item drawable="fluxer" />
     <item drawable="flym" />
     <item drawable="fmradio" />
     <item drawable="focal" />
@@ -494,12 +497,14 @@
     <item drawable="inaturalist" />
     <item drawable="infinity" />
     <item drawable="instagrabber" />
+    <item drawable="installwithoptions" />
     <item drawable="insular" />
     <item drawable="intentexplode" />
     <item drawable="intentintercept" />
     <item drawable="intheclear" />
     <item drawable="ionotepad" />
     <item drawable="irssiconnectbot" />
+    <item drawable="iyps" />
     <item drawable="j2meloader" />
     <item drawable="jadcompass" />
     <item drawable="jamendo" />
@@ -729,6 +734,7 @@
     <item drawable="nomad" />
     <item drawable="nonfree_airbnb" />
     <item drawable="nonfree_androidauto" />
+    <item drawable="nonfree_animeboxes" />
     <item drawable="nonfree_arte" />
     <item drawable="nonfree_asana" />
     <item drawable="nonfree_auchandrive" />
@@ -786,6 +792,7 @@
     <item drawable="nonfree_nintendoswitchonline" />
     <item drawable="nonfree_okoo" />
     <item drawable="nonfree_omronconnect" />
+    <item drawable="nonfree_paypal" />
     <item drawable="nonfree_pcloud" />
     <item drawable="nonfree_petitbambou" />
     <item drawable="nonfree_plumvillage" />
@@ -992,6 +999,7 @@
     <item drawable="puff" />
     <item drawable="pulsemusic" />
     <item drawable="puma" />
+    <item drawable="punch_holedownloadprogress" />
     <item drawable="punchlinebingo" />
     <item drawable="pushnotificationtester" />
     <item drawable="pwdhash" />
@@ -1008,6 +1016,7 @@
     <item drawable="quickdic" />
     <item drawable="quickdroid" />
     <item drawable="quicklyric" />
+    <item drawable="quillpad" />
     <item drawable="quranandroid" />
     <item drawable="rabbitescape" />
     <item drawable="radiobeacon" />

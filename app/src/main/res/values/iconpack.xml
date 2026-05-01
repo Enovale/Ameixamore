@@ -273,6 +273,8 @@
         <item>deskcon</item>
         <item>devtools</item>
         <item>dgapps</item>
+        <item>dhaaga</item>
+        <item>dhizuku</item>
         <item>diab</item>
         <item>diasporadfa</item>
         <item>diasporanw</item>
@@ -384,6 +386,7 @@
         <item>floatingstickies</item>
         <item>florisboard</item>
         <item>fluffychat</item>
+        <item>fluxer</item>
         <item>flym</item>
         <item>fmradio</item>
         <item>focal</item>
@@ -494,12 +497,14 @@
         <item>inaturalist</item>
         <item>infinity</item>
         <item>instagrabber</item>
+        <item>installwithoptions</item>
         <item>insular</item>
         <item>intentexplode</item>
         <item>intentintercept</item>
         <item>intheclear</item>
         <item>ionotepad</item>
         <item>irssiconnectbot</item>
+        <item>iyps</item>
         <item>j2meloader</item>
         <item>jadcompass</item>
         <item>jamendo</item>
@@ -729,6 +734,7 @@
         <item>nomad</item>
         <item>nonfree_airbnb</item>
         <item>nonfree_androidauto</item>
+        <item>nonfree_animeboxes</item>
         <item>nonfree_arte</item>
         <item>nonfree_asana</item>
         <item>nonfree_auchandrive</item>
@@ -786,6 +792,7 @@
         <item>nonfree_nintendoswitchonline</item>
         <item>nonfree_okoo</item>
         <item>nonfree_omronconnect</item>
+        <item>nonfree_paypal</item>
         <item>nonfree_pcloud</item>
         <item>nonfree_petitbambou</item>
         <item>nonfree_plumvillage</item>
@@ -992,6 +999,7 @@
         <item>puff</item>
         <item>pulsemusic</item>
         <item>puma</item>
+        <item>punch_holedownloadprogress</item>
         <item>punchlinebingo</item>
         <item>pushnotificationtester</item>
         <item>pwdhash</item>
@@ -1008,6 +1016,7 @@
         <item>quickdic</item>
         <item>quickdroid</item>
         <item>quicklyric</item>
+        <item>quillpad</item>
         <item>quranandroid</item>
         <item>rabbitescape</item>
         <item>radiobeacon</item>

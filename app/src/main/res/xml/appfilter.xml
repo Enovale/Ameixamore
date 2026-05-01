@@ -5992,7 +5992,7 @@
         drawable="slidersynth" />
     <item
         component="ComponentInfo{eu.hxreborn.phdp/eu.hxreborn.phdp.LauncherAlias}"
-        drawable="punch-holedownloadprogress" />
+        drawable="punch_holedownloadprogress" />
     <item
         component="ComponentInfo{eu.kanade.tachiyomi.az/eu.kanade.tachiyomi.ui.main.MainActivity}"
         drawable="tachiyomi" />
