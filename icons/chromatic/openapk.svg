@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" x="-.072" y="-.072" width="1.144" height="1.144" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,9 +75,7 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#3e2723" opacity=".2"/>
     </g>
-    <g>
-        <path d="m8.8287 7.8162c-0.55093 0-1.0125 0.46156-1.0125 1.0125v11.089c0 0.55093 0.46156 1.0125 1.0125 1.0125h11.089c0.55093 0 1.0125-0.46156 1.0125-1.0125v-11.089c0-0.55093-0.46156-1.0125-1.0125-1.0125h-2.9644v4.0232l-0.64528-0.54546-0.64528 0.54546-0.64528-0.54546-0.64528 0.54546-0.64528-0.54546-0.64528 0.54546-0.64528-0.54546-0.64528 0.54546v-4.0232z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1929" style="-inkscape-stroke:none"/>
-    </g>
+    <path d="m8.8287 7.8162c-0.55093 0-1.0125 0.46156-1.0125 1.0125v11.089c0 0.55093 0.46156 1.0125 1.0125 1.0125h11.089c0.55093 0 1.0125-0.46156 1.0125-1.0125v-11.089c0-0.55093-0.46156-1.0125-1.0125-1.0125h-2.9644v4.0232l-0.64528-0.54546-0.64528 0.54546-0.64528-0.54546-0.64528 0.54546-0.64528-0.54546-0.64528 0.54546-0.64528-0.54546-0.64528 0.54546v-4.0232z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1929" style="-inkscape-stroke:none"/>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>
         <rect x="7.2241" y="8.6528" width="14.298" height="11.441" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06959"/>

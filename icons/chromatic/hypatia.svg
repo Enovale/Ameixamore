@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" x="-.072" y="-.072" width="1.144" height="1.144" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,9 +75,7 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#263238" opacity=".2"/>
     </g>
-    <g>
-        <path d="m14.378 7.304-5.7712 2.6751v3.7398c0 2.9839 1.1356 4.2731 2.237 5.5233 1.3927 1.5808 3.5342 2.2005 3.5342 2.2005s1.9972-0.59599 3.5361-2.2005c1.1533-1.2024 2.2254-2.5505 2.2254-5.5233v-3.7398zm0 1.4721v5.5963h4.3683s0.13719 1.7285-1.4221 3.5361c-1.6324 1.8924-2.9461 2.0621-2.9461 2.0621v-5.5982h-4.6104v-3.5342z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".49492" stroke-width=".501"/>
-    </g>
+    <path d="m14.378 7.304-5.7712 2.6751v3.7398c0 2.9839 1.1356 4.2731 2.237 5.5233 1.3927 1.5808 3.5342 2.2005 3.5342 2.2005s1.9972-0.59599 3.5361-2.2005c1.1533-1.2024 2.2254-2.5505 2.2254-5.5233v-3.7398zm0 1.4721v5.5963h4.3683s0.13719 1.7285-1.4221 3.5361c-1.6324 1.8924-2.9461 2.0621-2.9461 2.0621v-5.5982h-4.6104v-3.5342z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".49492" stroke-width=".501"/>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>
         <rect x="7.2241" y="8.6528" width="14.298" height="11.441" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06959"/>

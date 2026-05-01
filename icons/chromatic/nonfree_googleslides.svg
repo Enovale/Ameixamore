@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 28.747 28.747" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <filter id="filter6206-7" x="-.072" y="-.072" width="1.144" height="1.144" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="0.658125"/>
@@ -75,9 +75,7 @@
         </g>
         <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#bf360c" opacity=".2"/>
     </g>
-    <g>
-        <path d="m12.905 11.455v5.8481l3.6551-2.9241zm6.5792-3.6551h-10.234c-0.80412 0-1.462 0.65792-1.462 1.462v10.234c0 0.80412 0.65792 1.462 1.462 1.462h10.234c0.80412 0 1.462-0.65792 1.462-1.462v-10.234c0-0.80412-0.65792-1.462-1.462-1.462zm0 11.696h-10.234v-10.234h10.234z" fill="#fff" stroke-width=".73102"/>
-    </g>
+    <path d="m12.905 11.455v5.8481l3.6551-2.9241zm6.5792-3.6551h-10.234c-0.80412 0-1.462 0.65792-1.462 1.462v10.234c0 0.80412 0.65792 1.462 1.462 1.462h10.234c0.80412 0 1.462-0.65792 1.462-1.462v-10.234c0-0.80412-0.65792-1.462-1.462-1.462zm0 11.696h-10.234v-10.234h10.234z" fill="#fff" stroke-width=".73102"/>
     <g display="none" fill="none">
         <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>
         <rect x="7.2241" y="8.6528" width="14.298" height="11.441" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06959"/>
