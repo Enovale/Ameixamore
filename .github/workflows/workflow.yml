@@ -92,16 +92,30 @@ jobs:
           pattern: "*"
           path: ./deploy
 
-      - name: Create Prerelease
+      - name: Get Short SHA
+        id: get_short_sha
+        run: echo "SHORT_SHA=$(echo ${{ github.sha }} | cut -c1-7)" >> $GITHUB_ENV
+
+      - name: Create nightly release
+        id: create_release
         if: github.ref == 'refs/heads/main'
-        uses: ncipollo/release-action@v1
+        uses: viperproject/create-nightly-release@v1
+        env:
+          # This token is provided by Actions, you do not need to create your own token
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          allowUpdates: true
-          prerelease: true
-          tag: "latest"
-          name: "Development Build"
-          body: "Latest nightly release, matching main (beware!)"
-          artifacts: "./deploy/app-output/signed/*.apk"
+          tag_name: latest-${{ env.SHORT_SHA }}
+          release_name: Development Build
+          body: Latest nightly release, matching main (beware!)
+          keep_num: 0
+          keep_tags: false
+
+      - name: Upload prerelease artifacts
+        uses: softprops/action-gh-release@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          tag_name: latest-${{ env.SHORT_SHA }}
+          files: ./deploy/app-output/signed/*.apk
 
       - name: Create tag release
         if: startsWith(github.ref, 'refs/tags/')
