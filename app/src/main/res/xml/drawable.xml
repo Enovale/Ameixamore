@@ -376,6 +376,7 @@
     <item drawable="filemanagersc" />
     <item drawable="finamp" />
     <item drawable="findmyphone" />
+    <item drawable="findroid" />
     <item drawable="fiobankacz" />
     <item drawable="firefox" />
     <item drawable="firefoxfocus" />
@@ -483,6 +484,7 @@
     <item drawable="hyperrogue" />
     <item drawable="i2p" />
     <item drawable="icecat" />
+    <item drawable="iconrequest" />
     <item drawable="icsdroid" />
     <item drawable="identiconizer" />
     <item drawable="ifixit" />
@@ -623,6 +625,7 @@
     <item drawable="maxima" />
     <item drawable="maxsmain" />
     <item drawable="meditationassistant" />
+    <item drawable="medtimer" />
     <item drawable="mega" />
     <item drawable="memetastic" />
     <item drawable="memrise" />
@@ -779,14 +782,17 @@
     <item drawable="nonfree_intermarche" />
     <item drawable="nonfree_lastfm" />
     <item drawable="nonfree_leboncoin" />
+    <item drawable="nonfree_limbuscompany" />
     <item drawable="nonfree_linguish" />
     <item drawable="nonfree_liverpool" />
+    <item drawable="nonfree_lovense_remote" />
     <item drawable="nonfree_messenger" />
     <item drawable="nonfree_microsoftauthenticator" />
     <item drawable="nonfree_microsoftoffice" />
     <item drawable="nonfree_microsoftonenote" />
     <item drawable="nonfree_microsoftteams" />
     <item drawable="nonfree_mixplorer" />
+    <item drawable="nonfree_mychart" />
     <item drawable="nonfree_myedenred" />
     <item drawable="nonfree_myphone" />
     <item drawable="nonfree_nintendoswitchonline" />

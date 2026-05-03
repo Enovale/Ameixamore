@@ -376,6 +376,7 @@
         <item>filemanagersc</item>
         <item>finamp</item>
         <item>findmyphone</item>
+        <item>findroid</item>
         <item>fiobankacz</item>
         <item>firefox</item>
         <item>firefoxfocus</item>
@@ -483,6 +484,7 @@
         <item>hyperrogue</item>
         <item>i2p</item>
         <item>icecat</item>
+        <item>iconrequest</item>
         <item>icsdroid</item>
         <item>identiconizer</item>
         <item>ifixit</item>
@@ -623,6 +625,7 @@
         <item>maxima</item>
         <item>maxsmain</item>
         <item>meditationassistant</item>
+        <item>medtimer</item>
         <item>mega</item>
         <item>memetastic</item>
         <item>memrise</item>
@@ -779,14 +782,17 @@
         <item>nonfree_intermarche</item>
         <item>nonfree_lastfm</item>
         <item>nonfree_leboncoin</item>
+        <item>nonfree_limbuscompany</item>
         <item>nonfree_linguish</item>
         <item>nonfree_liverpool</item>
+        <item>nonfree_lovense_remote</item>
         <item>nonfree_messenger</item>
         <item>nonfree_microsoftauthenticator</item>
         <item>nonfree_microsoftoffice</item>
         <item>nonfree_microsoftonenote</item>
         <item>nonfree_microsoftteams</item>
         <item>nonfree_mixplorer</item>
+        <item>nonfree_mychart</item>
         <item>nonfree_myedenred</item>
         <item>nonfree_myphone</item>
         <item>nonfree_nintendoswitchonline</item>

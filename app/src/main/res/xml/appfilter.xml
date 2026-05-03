@@ -1932,6 +1932,9 @@
         component="ComponentInfo{com.ftw_and_co.happn/com.ftw_and_co.happn.ui.splash.SplashActivity}"
         drawable="nonfree_happn" />
     <item
+        component="ComponentInfo{com.futsch1.medtimer/com.futsch1.medtimer.MainActivity}"
+        drawable="medtimer" />
+    <item
         component="ComponentInfo{com.futo.platformplayer/com.futo.platformplayer.activities.MainActivity}"
         drawable="grayjay" />
     <item
