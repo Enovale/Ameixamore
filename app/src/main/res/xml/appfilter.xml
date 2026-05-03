@@ -1500,6 +1500,9 @@
         component="ComponentInfo{com.blogspot.developersu.ns_usbloader/com.blogspot.developersu.ns_usbloader.MainActivity}"
         drawable="nsusbloader" />
     <item
+        component="ComponentInfo{com.bnyro.clock/com.bnyro.clock.ui.MainActivity}"
+        drawable="clock" />
+    <item
         component="ComponentInfo{com.bobek.compass/com.bobek.compass.MainActivity}"
         drawable="compass_bobek" />
     <item
@@ -3158,6 +3161,9 @@
     <item
         component="ComponentInfo{com.ringdroid/com.ringdroid.RingdroidSelectActivity}"
         drawable="ringdroid" />
+    <item
+        component="ComponentInfo{com.riotgames.mobile.leagueconnect/com.riotgames.mobile.leagueconnect.ui.MainActivity}"
+        drawable="nonfree_riotmobile" />
     <item
         component="ComponentInfo{com.riteshsahu.SMSBackupRestore/com.riteshsahu.SMSBackupRestore.activities.IntroActivity}"
         drawable="smsbackup" />
@@ -5093,6 +5099,9 @@
     <item
         component="ComponentInfo{com.sovworks.edslite/com.sovworks.eds.android.filemanager.activities.FileManagerActivity}"
         drawable="edslite" />
+    <item
+        component="ComponentInfo{sox.fzer0x.lsposedlauncher/sox.fzer0x.lsposedlauncher.MainActivity}"
+        drawable="lsposed" />
     <item
         component="ComponentInfo{com.soyblue.bluesound/com.soyblue.bluesound.MainActivity}"
         drawable="bluemono" />
