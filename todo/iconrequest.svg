@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="28.747" height="28.747" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Twelf Icon Template</title>
+ <defs>
+  <filter id="filter6206-7" x="-.072" y="-.072" width="1.144" height="1.144" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.658125"/>
+  </filter>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Twelf Icon Template</dc:title>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>xphnx</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(0 -1093.8)">
+  <path transform="matrix(1.0781 0 0 1.0641 -.093733 2.7509)" d="m4.4177 1028.2v1.6051h-1.6052v18.192h1.6052v2.1402h18.192v-2.1402h2.1402v-18.192h-2.1402v-1.6051z" fill="#1a237e" filter="url(#filter6206-7)" opacity=".2"/>
+  <rect x="2.9987" y="1096.8" width="22.749" height="22.749" rx="1.1973" ry="1.1974" fill="#3f51b5"/>
+  <g transform="translate(-22.32 1056.5)">
+   <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
+   <g transform="matrix(.33601 0 0 .33601 1.5296 73.043)">
+    <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
+   </g>
+   <g transform="matrix(.37187 0 0 .37187 38.802 63.239)">
+    <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
+    <g transform="matrix(2.6891 0 0 2.6891 -82.906 -48.45)">
+     <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
+    </g>
+   </g>
+  </g>
+  <path d="m4.1958 1096.8c-0.66332 0-1.1979 0.5346-1.1979 1.1979v0.3334c0-0.6634 0.53459-1.1979 1.1979-1.1979h20.354c0.66332 0 1.1979 0.5345 1.1979 1.1979v-0.3334c0-0.6633-0.5346-1.1979-1.1979-1.1979z" fill="#fff" opacity=".2"/>
+  <g fill="none" stroke-width="1.0667">
+   <rect x="128" y="546.52" width="42.667" height="42.667"/>
+   <rect x="128" y="631.85" width="42.667" height="42.667"/>
+   <rect x="128" y="674.52" width="42.667" height="42.667"/>
+   <rect x="128" y="589.19" width="42.667" height="42.667"/>
+   <rect x="128" y="717.19" width="42.667" height="42.667"/>
+   <rect x="213.33" y="546.52" width="42.667" height="42.667"/>
+   <rect x="213.33" y="631.85" width="42.667" height="42.667"/>
+   <rect x="213.33" y="674.52" width="42.667" height="42.667"/>
+   <rect x="213.33" y="589.19" width="42.667" height="42.667"/>
+   <rect x="213.33" y="717.19" width="42.667" height="42.667"/>
+   <rect x="298.67" y="546.52" width="42.667" height="42.667"/>
+   <rect x="298.67" y="631.85" width="42.667" height="42.667"/>
+   <rect x="298.67" y="674.52" width="42.667" height="42.667"/>
+   <rect x="298.67" y="589.19" width="42.667" height="42.667"/>
+   <rect x="298.67" y="717.19" width="42.667" height="42.667"/>
+   <rect x="170.67" y="546.52" width="42.667" height="42.667"/>
+   <rect x="170.67" y="631.85" width="42.667" height="42.667"/>
+   <rect x="170.67" y="674.52" width="42.667" height="42.667"/>
+   <rect x="170.67" y="589.19" width="42.667" height="42.667"/>
+   <rect x="170.67" y="717.19" width="42.667" height="42.667"/>
+   <rect x="256" y="546.52" width="42.667" height="42.667"/>
+   <rect x="256" y="631.85" width="42.667" height="42.667"/>
+   <rect x="256" y="674.52" width="42.667" height="42.667"/>
+   <rect x="256" y="589.19" width="42.667" height="42.667"/>
+   <rect x="256" y="717.19" width="42.667" height="42.667"/>
+   <rect x="128" y="759.85" width="42.667" height="42.667"/>
+   <rect x="213.33" y="759.85" width="42.667" height="42.667"/>
+   <rect x="298.67" y="759.85" width="42.667" height="42.667"/>
+   <rect x="170.67" y="759.85" width="42.667" height="42.667"/>
+   <rect x="256" y="759.85" width="42.667" height="42.667"/>
+   <rect x="341.33" y="589.19" width="42.667" height="42.667"/>
+   <rect x="341.33" y="631.85" width="42.667" height="42.667"/>
+   <rect x="341.33" y="717.19" width="42.667" height="42.667"/>
+   <rect x="341.33" y="546.52" width="42.667" height="42.667"/>
+   <rect x="341.33" y="674.52" width="42.667" height="42.667"/>
+   <rect x="341.33" y="759.85" width="42.667" height="42.667"/>
+   <rect x="160" y="578.52" width="192" height="192"/>
+  </g>
+  <g transform="matrix(.37344 0 0 .37344 4.7333 1097.4)">
+   <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
+  </g>
+  <g transform="matrix(.36471 0 0 .36471 5.1356 1097.4)">
+   <path d="m0 0h51.2v51.2h-51.2z" fill="none" stroke-width="1.0667"/>
+  </g>
+  <g transform="matrix(.41585 0 0 .41585 84.325 1055.9)">
+   <g transform="matrix(.062269 0 0 .062269 -28.238 185.29)">
+    <g transform="matrix(38.618 0 0 38.618 14724 -13542)">
+     <g transform="matrix(.71436 0 0 .71436 -400.52 188.34)">
+      <path d="m1293.2-120.67c-181.75 0.2763-511.18 0.13525-699.05 0.13998-2.3216 10.413-3.593 21.251-3.593 32.384v114c207.65 0.73695 494.72 0.38136 706.23 0.3733v-114.37c0-11.18-1.2522-22.07-3.593-32.523zm-458.69 295.56c-78.385-4e-3 -158.85 0.17892-243.95 0.55995v138.63c286.34-0.39317 421.73-0.13827 706.23-0.32664v-137.75c-163.2-0.53005-311.22-1.1113-462.28-1.1199z" opacity="0" stroke-width="1.4932"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <path d="m24.549 1119.5c0.66325 0 1.1979-0.5346 1.1979-1.1979v-0.3333c0 0.6632-0.53461 1.1978-1.1979 1.1978h-20.354c-0.66325 0-1.1979-0.5346-1.1979-1.1978v0.3333c0 0.6633 0.53461 1.1979 1.1979 1.1979z" fill="#1a237e" opacity=".2"/>
+ </g>
+ <g>
+  <g transform="matrix(.40777 0 0 .40777 -455.38 -455.38)" stroke-width=".92888">
+   <path class="cls-1" d="m1151.9 1134.4c-2.6531 0-5.3053 0.8138-7.5645 2.4414l-1.748-1.7734c-0.8341-0.8357-2.1876-0.8369-3.0176 0-0.8301 0.8329-0.83 2.1756 0 3.0058l1.8145 1.7871c-1.5956 2.2053-2.458 3.8562-2.4629 6.5781v1.7188c0 0.7553 0.6138 1.3672 1.3691 1.3672h23.281c0.7422-0.018 1.3361-0.6247 1.3359-1.3672v-1.7188c0.01-2.723-0.8421-4.3794-2.4297-6.5917l1.8223-1.8008c0.8297-0.8287 0.8299-2.1742 0-3.0078-0.83-0.8337-2.1855-0.8329-3.0157 0.01l-1.8144 1.8008c-2.2592-1.6276-4.9134-2.4414-7.5664-2.4414zm-6.1641 7.7617a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2zm12.412 0a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z" fill="#fff"/>
+   <path d="m1140 1150.4c-0.4803 0-0.875 0.3869-0.875 0.8672v5.2695c-0.01 4.733 2.4686 9.0266 6.4922 11.35 4.0237 2.3231 8.9803 2.3231 13.004 0 4.0237-2.323 6.5039-6.6176 6.5039-11.264l-0.019-5.3555c0-0.4803-0.3869-0.8672-0.8672-0.8672zm10.957 0.7852h2.3672v2.0664h0.8613c0.7273 0 1.3125 0.6004 1.3125 1.3457v3.2363l-0.8613 0.8945 1.7753 3.1485c1.2806-1.1701 2.0352-2.835 2.0352-4.6114h1.75c0 2.4081-1.0838 4.6652-2.9062 6.17l0.8046 1.4257 0.2442 2.5313-1.9766-1.4258-0.8027-1.4434c-2.1476 0.9947-4.6313 0.9871-6.7735-0.023l-0.7558 1.3574-1.9805 1.6348 0.1641-2.6524 3.5293-6.1542-0.9317-0.9571v-3.1308c0-0.7453 0.5853-1.3457 1.3125-1.3457h0.8321zm0.2343 8.9863-1.5527 2.793c1.6107 0.7239 3.4527 0.7318 5.0684 0.023l-1.5293-2.7481-0.031 0.033c-0.5112 0.5301-1.3417 0.5276-1.8554 0z" fill="#fff" style="paint-order:markers fill stroke"/>
+   <circle cx="1152.1" cy="1155.9" r=".74087" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".92888" style="paint-order:markers fill stroke"/>
+  </g>
+ </g>
+ <g display="none" fill="none">
+  <rect transform="rotate(90)" x="7.8232" y="-20.923" width="13.1" height="13.1" display="inline" stroke="#000" stroke-width=".070382"/>
+  <rect x="7.2241" y="8.6528" width="14.298" height="11.441" stroke="#5261ff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06959"/>
+  <rect transform="rotate(90)" x="7.2241" y="-20.094" width="14.298" height="11.441" display="inline" stroke="#0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".06959"/>
+ </g>
+</svg>

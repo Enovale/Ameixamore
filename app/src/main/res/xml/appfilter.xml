@@ -141,6 +141,9 @@
         component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.ui.MainActivity}"
         drawable="davdroid" />
     <item
+        component="ComponentInfo{at.bitfire.icsdroid/at.bitfire.icsdroid.MainActivity}"
+        drawable="icsdroid" />
+    <item
         component="ComponentInfo{at.bitfire.icsdroid/at.bitfire.icsdroid.ui.CalendarListActivity}"
         drawable="icsdroid" />
     <item
@@ -2574,6 +2577,9 @@
         component="ComponentInfo{com.looker.droidify/com.looker.droidify.MainActivity}"
         drawable="droidify" />
     <item
+        component="ComponentInfo{com.lovense.wear/com.wear.main.FlashActivity}"
+        drawable="nonfree_lovense_remote" />
+    <item
         component="ComponentInfo{com.lucao.limpazap/com.lucao.limpazap.MainActivity}"
         drawable="limpazap" />
     <item
@@ -3068,6 +3074,9 @@
     <item
         component="ComponentInfo{com.proch.practicehub/com.proch.practicehub.MainActivity}"
         drawable="practicehub" />
+    <item
+        component="ComponentInfo{com.ProjectMoon.LimbusCompany/com.unity3d.player.UnityPlayerActivity}"
+        drawable="nonfree_limbuscompany" />
     <item
         component="ComponentInfo{com.projectsexception.myapplist.open/com.projectsexception.myapplist.MainActivity}"
         drawable="myapplist" />
@@ -5673,6 +5682,9 @@
         component="ComponentInfo{de.kaffeemitkoffein.imagepipe/de.kaffeemitkoffein.imagepipe.ImageReceiver}"
         drawable="imagepipe" />
     <item
+        component="ComponentInfo{de.kaiserdragon.iconrequest/de.kaiserdragon.iconrequest.MainActivity}"
+        drawable="iconrequest" />
+    <item
         component="ComponentInfo{de.kodejak.hashr/de.kodejak.hashr.MainActivity}"
         drawable="hashr" />
     <item
@@ -5910,6 +5922,9 @@
         component="ComponentInfo{dev.imranr.obtainium.fdroid/dev.imranr.obtainium.MainActivity}"
         drawable="obtainium" />
     <item
+        component="ComponentInfo{dev.jdtech.jellyfin/dev.jdtech.jellyfin.MainActivity}"
+        drawable="findroid" />
+    <item
         component="ComponentInfo{dev.leonlatsch.photok/dev.leonlatsch.photok.MainLauncher}"
         drawable="photok" />
     <item
@@ -5957,6 +5972,9 @@
     <item
         component="ComponentInfo{email.schaal.ocreader/email.schaal.ocreader.ListActivity}"
         drawable="ocreader" />
+    <item
+        component="ComponentInfo{epic.mychart.android/epic.mychart.android.library.prelogin.SplashActivity}"
+        drawable="nonfree_mychart" />
     <item
         component="ComponentInfo{es.usc.citius.servando.calendula/es.usc.citius.servando.calendula.HomeActivity}"
         drawable="calendula" />
